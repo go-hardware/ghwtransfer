@@ -1,4 +1,4 @@
-module github.com/jaypipes/ghwtransfer
+module github.com/go-hardware/ghwtransfer
 
 go 1.24.3
 
